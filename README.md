@@ -1,3 +1,3 @@
 # Aljabar-Matriks_Project-UAS_Dzakya-Rayyan-Pratama
-# LINK VIDEO
+# Link Video
 https://youtu.be/OmLvOYf8218
